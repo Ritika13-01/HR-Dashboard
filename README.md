@@ -1,4 +1,4 @@
-# Dashboards
+# HR Analytics Dashboard
 This HR analytics dashboard provides a comprehensive view of employee performance, demographics, and compensation data across the organization. Here's a breakdown of its components:
 
 ### 1. **Performance Metrics Dashboard**
