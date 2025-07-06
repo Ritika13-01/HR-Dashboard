@@ -11,6 +11,8 @@ This HR analytics dashboard provides a comprehensive view of employee performanc
    - **Position-Wise Performance:** Line graph displaying performance scores by job position.
 
 ### 2. **HR Analytics Dashboard**
+![image](https://github.com/user-attachments/assets/dcebcd42-40ff-4ec9-b942-9ff641cb8664)
+
    - **Employee and Salary Overview:** Shows total employees (207), average salary ($70.69K), total departments (6), and attrition rate (33.44%).
    - **Age Diversity:** Graph showing employee distribution across age groups (<40, <50, etc.).
    - **Race and Gender Diversity:** Pie charts detailing racial and gender composition (e.g., 59.9% White, 43.96% female).
@@ -18,6 +20,8 @@ This HR analytics dashboard provides a comprehensive view of employee performanc
    - **Position-Wise Employee Count:** Bar chart showing the number of employees in key roles (e.g., Production Technicians, IT Support).
 
 ### 3. **Compensation Dashboard**
+![image](https://github.com/user-attachments/assets/bb6abd5e-0a61-4b12-a5b3-a4cc0e932ada)
+
    - **Average Salary by Department:** Bar chart comparing average salaries across departments (e.g., Executive Office, IT/IS).
    - **Salary Demographics:** Breakdowns by gender, race, and recruitment source.
    - **Position-Wise Salary:** Table listing average salaries for key positions (e.g., Sr. Network Engineer, CEO).
