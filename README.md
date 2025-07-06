@@ -2,6 +2,8 @@
 This HR analytics dashboard provides a comprehensive view of employee performance, demographics, and compensation data across the organization. Here's a breakdown of its components:
 
 ### 1. **Performance Metrics Dashboard**
+![image](https://github.com/user-attachments/assets/0b4a5126-2fc7-4efe-9e74-39cfa2dedf75)
+
    - **Overview:** Highlights the total employee count (207) and a performance score.
    - **Department-Wise Performance:** A pie chart showing employee distribution across departments like Admin Offices, IT/IS, Production, and Sales.
    - **Manager Ratings:** Visual representation of employee performance levels (e.g., "Fully Meets," "Exceeds").
